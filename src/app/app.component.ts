@@ -9,7 +9,7 @@ import { FooterComponent } from './footer/footer.component';
     <router-outlet></router-outlet>
     <app-footer></app-footer>
   `,
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
   title = 'Quadraphic Logo';
